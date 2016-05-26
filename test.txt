@@ -1,0 +1,15 @@
+ShortenedUrl.create_for_user_and_long_url!(User.first, 'http://guides.rubyonrails.org/v3.2.13/active_record_validations_callbacks.html#performing-custom-validations')
+
+ShortenedUrl.create_for_user_and_long_url!(User.first, "http://ruby-doc.org/core-2.2.0/Time.html")
+ShortenedUrl.create_for_user_and_long_url!(User.first, "https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=minutes%20ago%20rails%20module&oq=minutes%20ago%20rails%20module&aqs=chrome..69i57j69i60l3j69i59l2.3390j0j4")
+ShortenedUrl.create_for_user_and_long_url!(e, "http://stackoverflow.com/questions/3278986/ago-date-time-functions-in-ruby-rails")
+ShortenedUrl.create_for_user_and_long_url!(e,"http://stackoverflow.com/questions/11736786/rails-3-custom-validation")
+
+
+
+ShortenedUrl.create_for_user_and_long_url!(e,"http://api.rubyonrails.org/classes/ActionView/Helpers/DateHelper.html")
+ShortenedUrl.create_for_user_and_long_url!(e,"https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=ruby%20what%20module%20include%20time%20ago&oq=ruby%20what%20module%20include%20time%20ago&aqs=chrome..69i57j0l5.6526j0j7")
+ShortenedUrl.create_for_user_and_long_url!(e,"https://github.com/appacademy/curriculum/tree/master/sql/projects/url_shortener")
+ShortenedUrl.create_for_user_and_long_url!(e,"https://github.com/appacademy/curriculum/blob/master/sql/projects/associations_exercise/skeleton.zip")
+ShortenedUrl.create_for_user_and_long_url!(e,"https://github.com/appacademy/curriculum/blob/master/sql/readings/has-many-through.md")
+ShortenedUrl.create_for_user_and_long_url!(e,"http://apidock.com/rails/ActiveRecord/ConnectionAdapters/SchemaStatements/add_index")
